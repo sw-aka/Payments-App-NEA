@@ -33,3 +33,6 @@ To start the back-end server and the API run main.py.
 To run the application, navigate to Front-end/Compiled-Windows-Application and run currency_app.exe
 
 To run the source code Flutter must be installed.
+
+## License
+This project is licensed under the [](LICENSE).
