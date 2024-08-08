@@ -1,4 +1,4 @@
-#Payments App
+# Payments App
 This project was created for my Computer Science A-Level. It involves a mobile app created with Flutter, along with a backend server developed in Python which uses a PostgreSQL database. 
 
 The app allows users to request and send digital currency to one another.
