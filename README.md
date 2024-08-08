@@ -35,4 +35,4 @@ To run the application, navigate to Front-end/Compiled-Windows-Application and r
 To run the source code Flutter must be installed.
 
 ## License
-This project is licensed under the [](LICENSE).
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE).
